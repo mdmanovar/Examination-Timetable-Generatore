@@ -2,6 +2,8 @@
                   
 # **Project Overview** :-->
 
+> PS NO - 86.
+
 > The Examination Timetable Generator is a Python-based project that automatically generates an examination schedule for multiple         subjects.
 
 > The program takes subject names, a starting date, and holiday dates from the user. It automatically assigns examination dates to each subject while skipping Sundays and specified holidays.
