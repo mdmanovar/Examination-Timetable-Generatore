@@ -59,13 +59,6 @@ print("--------------------------------")
 subject_text = input("Enter subjects: ")
 
 subjects = []
-
-# for subject in subject_text.split(","):
-#     subject = subject.strip()
-
-#     if subject != "":
-#         subjects.append(subject)
-# if subject_text.strip().lower() !="none":
 if subject_text.strip().lower() not in ("none" ,"(none)" , ""):
     for subject in subject_text.split(","):
         subject = subject.strip()
@@ -145,15 +138,7 @@ else:
 
 
                 for exam in timetable:
-                    print(
-                        exam["Subject"],
-                        ":",
-                        # exam["Date"],
-                        exam["Date"],
-                        
-                        # exam["Day"]
-                        "("+ exam["Day"] + ")"
-                    )
+                    print(exam["Subject"],":",exam["Date"], "("+ exam["Day"] + ")" )
 
                 print("-------------------------")
                 # print("_" * 45)
