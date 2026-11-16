@@ -3,9 +3,10 @@
 # **Project Overview** :-->
 
 >Project Name: Examination Timetable Generator
-> PS NO - 86.
-> Name: Md Manovar
 
+> PS NO - 86.
+
+> Name: Md Manovar
 
 > The Examination Timetable Generator is a Python-based project that automatically generates an examination schedule for multiple         subjects.
 
