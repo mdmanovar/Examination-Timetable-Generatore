@@ -65,16 +65,24 @@
 ## 7. **Advantages** :-->
 
 > Saves time in preparing examination schedules.
+
 > Prevents duplicate subject entries.
+
 > Avoids scheduling examinations on Sundays.
+
 > Allows users to specify holidays.
+
 > Provides an organized timetable.
+
 > Demonstrates practical Python programming skills.
+
 
 ## 8. **Limitations** :-->
 
 > It does not provide a graphical user interface.
+
 > It does not store generated timetables permanently.
+
 > It does not include subject-specific examination durations.
 
 
