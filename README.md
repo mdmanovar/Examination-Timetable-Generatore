@@ -61,7 +61,7 @@ Examination-Timetable-Generator :
 7. It generates the timetable by skipping Sundays and holidays.
 8. Finally, it displays the subject name, examination date, and day.
 
-## **How to run code using FlowChart** :-->
+## **How to run code->Explaining using FlowChart** :-->
 
 
 
