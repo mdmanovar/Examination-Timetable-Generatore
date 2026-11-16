@@ -17,19 +17,29 @@
 # **Features** :-->
 
 > Accepts multiple subjects from the user.
+
 > Checks for empty subject input.
+
 > Detects duplicate subjects.
+
 > Validates dates in DD-MM-YYYY format.
+
 > Accepts holiday dates.
+
 > Automatically skips Sundays.
+
 > Assigns dates and weekdays to each subject.
+
 > Displays the final examination timetable in an organized format.
 
 # **Technologies Used** :-->
 
 > Programming Language: Python
+
 > Module: datetime
+
 > Data Structures: List, Tuple, Set, Dictionary
+
 > Concepts: Functions, Loops, Conditional Statements, Exception Handling
 
 #  **Project Structure** :-->
