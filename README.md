@@ -40,7 +40,10 @@ Examination-Timetable-Generator :
 |
 ├── README.md
 |
-└── SUMMARY.md
+|__ SUMMARY.md
+|
+└── screenshot
+
 
 ##  **Requirements** :-->
 
@@ -57,6 +60,18 @@ Examination-Timetable-Generator :
 6. It accepts holiday dates from the user.
 7. It generates the timetable by skipping Sundays and holidays.
 8. Finally, it displays the subject name, examination date, and day.
+
+## **How to run code using FlowChart** :-->
+
+
+
+
+> ![alt text](flowchart.png)
+
+
+
+
+
 
 ## **Input Format** :-->
 
