@@ -26,13 +26,21 @@
 ## 4. **Python Concepts Implemented** :-->
 
 > **Tuple:** --> Stores the names of the weekdays.
+
 > **List:**  --> Stores subjects, holidays, and timetable records.
+
 > **Set:**  --> Identifies duplicate subject names.
+
 > **Dictionary:** --> Stores examination details.
+
 > **Functions:** --> Separates date validation and timetable generation logic.
+
 > **For Loop:**  --> Iterates through subjects and holidays.
+
 > **While Loop:** --> Skips Sundays and holidays.
+
 > **Exception Handling:** --> Handles invalid date inputs.
+
 > **datetime Module:** --> Performs date validation and date calculations.
 
  
