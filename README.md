@@ -37,7 +37,9 @@
 Examination-Timetable-Generator :
 │
 ├── main.py
+|
 ├── README.md
+|
 └── SUMMARY.md
 
 ##  **Requirements** :-->
